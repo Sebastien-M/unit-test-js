@@ -1,0 +1,26 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "Exercice with unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastien-M/unit-test-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sebastien-M/unit-test-js/issues"
+  },
+  "homepage": "https://github.com/Sebastien-M/unit-test-js#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-jasmine": "^1.1.0"
+  }
+}
